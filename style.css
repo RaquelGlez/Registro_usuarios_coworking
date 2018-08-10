@@ -1,0 +1,32 @@
+img {
+    width: 18rem;
+    padding: 2rem;
+    align-content: center
+}
+
+h3 {
+    padding-bottom: 2rem;
+}
+
+.btn-danger{
+    margin-top: 7rem;
+    margin-left: 1rem;
+}
+
+#img{
+    width: 10rem;
+    float: center;
+    text-align: center;
+}
+
+.rigth{
+    float: right;
+    text-align: right;
+    margin-top: 3rem;
+}
+
+.left{
+    float: left;
+    text-align: left;
+    margin-top: 2rem;
+}

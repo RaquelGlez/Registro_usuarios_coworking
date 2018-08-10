@@ -78,8 +78,9 @@ Pequeña descripción
 
 ![imagen del problema]()
 
+### Prototipo clickeable
 
-
+![Registro]("https://marvelapp.com/5ei54dd")
 
 
 
